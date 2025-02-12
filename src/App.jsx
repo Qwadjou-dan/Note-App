@@ -1,6 +1,7 @@
 import React from "react";
 import AddNote from "./Components/AddNote";
 import NotesList from "./Components/NotesList";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 const App = () => {
   return (

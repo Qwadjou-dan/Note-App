@@ -27,7 +27,7 @@ const AddNote = () => {
           type="text"
           onChange={handleAddNote}
           placeholder="Type your note here..."
-          className="border border-2 rounded-md w-[300px] h-[400px] p-2"
+          className=" border-2 rounded-md w-[300px] h-[400px] p-2"
         ></textarea>
         <button
           className="border-none p-2 rounded-md bg-green-400"
